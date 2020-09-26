@@ -43,3 +43,4 @@ function warOfNumbers(arr) {
 
 warOfNumbers(array);
 console.log(sub)
+
