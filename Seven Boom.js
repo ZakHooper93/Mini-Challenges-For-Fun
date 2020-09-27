@@ -12,3 +12,7 @@ function sevenBoom(arr) {
         return "there is no 7 in the array"
     }
 }
+
+var n =  123456789;
+var digits = (""+n).split("");
+console.log(digits);
